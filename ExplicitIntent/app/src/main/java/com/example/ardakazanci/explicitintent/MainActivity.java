@@ -20,14 +20,14 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void getControlView(){
+    private void getControlView() {
 
         buttonObject = (Button) findViewById(R.id.start_other_activity_button);
 
 
     }
 
-    private void setClickForView(){
+    private void setClickForView() {
 
 
         buttonObject.setOnClickListener(new View.OnClickListener() {
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
 
-                Intent intent = new Intent(MainActivity.this,OtherActivity.class);
+                Intent intent = new Intent(MainActivity.this, OtherActivity.class);
                 startActivity(intent);
 
 
@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
 
 
 }
