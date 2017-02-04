@@ -8,4 +8,10 @@
     tools:context="com.example.ardakazanci.createanintentobject.MainActivity">
 
 
+    <Button
+        android:id="@+id/create_an_intent_object"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create an intent object "
+        android:textAllCaps="false" />
 </LinearLayout>
