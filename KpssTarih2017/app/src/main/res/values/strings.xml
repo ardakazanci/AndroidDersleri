@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KPSS TARİH ÇIKMIŞ SORULAR </string>
+    <string name="kpss2016">Kpss 2016 - Genel Kültür - Genel Yetenek</string>
+    <string name="kpss2015">Kpss 2015 - Genel Kültür - Genel Yetenek</string>
+    <string name="kpss2014">Kpss 2014 - Genel Kültür - Genel Yetenek</string>
+    <string name="kpss2013">Kpss 2013 - Genel Kültür - Genel Yetenek</string>
+    <string name="kpss2012">Kpss 2012 - Genel Kültür - Genel Yetenek</string>
+    <string name="kpss2011">Sohbet</string>
+    <string name="kpss2010">Kpss 2010 - Genel Kültür - Genel Yetenek</string>
+    <string name="motivasyon1">“Orijinal olarak başarısız olmayı bir taklit olarak başarılı olmaya tercih ederim. Bir yerde bir hata yapmayan bir kişi asla usta olamaz. Başarısızlık, gerçek ustalığın denenmesidir.” Herman Melville</string>
+</resources>
